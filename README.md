@@ -1,7 +1,7 @@
-# Delhivery_Feature_Engineering
-Perform Feature Engineering on Delhivery dataset of logistics
+# Shipping_Feature_Engineering
+Perform Feature Engineering on Shipping Company dataset of logistics
 
-Delhivery is a shippping company and we are trying to extract different features by doing feature engineering.
+For this shippping company we are trying to extract different features by doing feature engineering.
 
 Problem Statement:
 1. What is the correlation between actual_distance_to_destination and actual_time
